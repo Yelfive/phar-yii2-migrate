@@ -1,0 +1,5 @@
+#!php
+
+<?php
+
+include __DIR__ . '/yii.php';
